@@ -1,0 +1,2 @@
+* text eol=lf
+*.sql    whitespace=trailing-space,space-before-tab,cr-at-eol
